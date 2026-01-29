@@ -1,0 +1,10 @@
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Date Time Picker\Date Time Picker\obj\Debug\Date Time Picker.csproj.AssemblyReference.cache
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Date Time Picker\Date Time Picker\obj\Debug\Date_Time_Picker.Form1.resources
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Date Time Picker\Date Time Picker\obj\Debug\Date_Time_Picker.Properties.Resources.resources
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Date Time Picker\Date Time Picker\obj\Debug\Date Time Picker.csproj.GenerateResource.cache
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Date Time Picker\Date Time Picker\obj\Debug\Date Time Picker.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Date Time Picker\Date Time Picker\bin\Debug\Date Time Picker.exe.config
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Date Time Picker\Date Time Picker\bin\Debug\Date Time Picker.exe
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Date Time Picker\Date Time Picker\bin\Debug\Date Time Picker.pdb
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Date Time Picker\Date Time Picker\obj\Debug\Date Time Picker.exe
+C:\Users\Hasan\Desktop\2.sınıf\2-2.dönem\Görsel Proglamlama\ÖRNEKLER\Date Time Picker\Date Time Picker\obj\Debug\Date Time Picker.pdb
